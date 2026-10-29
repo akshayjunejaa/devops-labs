@@ -13,3 +13,6 @@ Hands-on practice to build, troubleshoot, and document infrastructure skills.
 - Terraform and cloud fundamentals
 
 Each lab will include commands, results, troubleshooting notes, and key learnings.
+
+## Git Branch Practice
+This section was added on a feature branch.
