@@ -16,3 +16,4 @@ Each lab will include commands, results, troubleshooting notes, and key learning
 
 ## Git Branch Practice
 This section was added on a feature branch.
+Environment: production
